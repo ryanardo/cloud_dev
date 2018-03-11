@@ -1,0 +1,3 @@
+[submodule "gcp/nodejs/speech"]
+	path = gcp/nodejs/speech
+	url = https://github.com/ryanglenferris/nodejs-speech.git
