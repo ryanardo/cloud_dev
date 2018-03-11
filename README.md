@@ -6,11 +6,11 @@
 
 ### **Introduction to AWS**
 
-![Introduction to AWS](img\introduction_to_aws.png)
+![Introduction to AWS](https://github.com/ryanglenferris/dev/blob/master/img/introduction_to_aws.png)
 
 ### **Introduction to Google Cloud Platform**
 
-![Introduction to Google Cloud Platform](img\introduction_to_gcp.png)
+![Introduction to Google Cloud Platform](https://github.com/ryanglenferris/dev/blob/master/img/introduction_to_gcp.png)
 
 ## Google Cloud Platform Repos
 
