@@ -1,3 +1,6 @@
 [submodule "gcp/nodejs/speech"]
 	path = gcp/nodejs/speech
 	url = https://github.com/ryanglenferris/nodejs-speech.git
+[submodule "gcp/java/examples"]
+	path = gcp/java/examples
+	url = https://github.com/ryanglenferris/google-cloud-java.git
